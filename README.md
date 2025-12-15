@@ -29,3 +29,21 @@ This project demonstrates monitoring EC2 instances using Amazon CloudWatch and a
 ## Outcome
 - Automatic scaling based on CPU usage
 - Alerts received through SNS email notifications
+
+## Screenshots
+
+### CloudWatch Alarms
+![CloudWatch Alarms](cloudwatch-alarms.png)
+
+### Auto Scaling Group
+![Auto Scaling Group](autoscaling-group.png)
+
+### Launch Template
+![Launch Template](launch-template.png)
+
+### SNS Email Notification
+![SNS Notification](sns-notification.png)
+
+### CPU Stress Test
+![CPU Stress Test](cpu-stress-test.png)
+
